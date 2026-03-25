@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+
+# Python bytecode / cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Local vector store / app data
+data/chroma/
